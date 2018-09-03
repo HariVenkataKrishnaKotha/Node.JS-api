@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-sequelize-mysql",
+  "version": "1.0.0",
+  "description": "Nodejs-Express-Sequelize-MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "keywords": [
+    "Nodejs-Express-Sequelize-MySQL"
+  ],
+  "author": "Hari",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mysql2": "^1.6.1",
+    "npm": "^6.3.0",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {}
+}
